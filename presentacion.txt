@@ -1,4 +1,4 @@
-> [!PRESENTACION]
+> [!NOTE]
 > Hola!
 
 En el siguiente repositorio encontraras una rica receta de sopaipillas!
